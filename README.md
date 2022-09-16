@@ -6,6 +6,8 @@
 
 Always available for beneficial works🙂 Hi,I'm Asif . Now, I'm studying Computer Science and Engineering in Bangladesh University of Business and Technology.
 
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47eowolcrpdx2fhe1bqkh4md3rpupx7kmwz8sqaqn1&rid=giphy.gif&ct=g">
+
 Skills:  REACT / JS / HTML / CSS / Artificial Intelligence / Data Science
 
 - 🔭 I’m currently working on Youtube 
